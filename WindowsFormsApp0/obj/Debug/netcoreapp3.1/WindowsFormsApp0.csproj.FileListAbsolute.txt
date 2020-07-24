@@ -1,0 +1,15 @@
+C:\Users\aleja\OneDrive\Escritorio\PROTOTYPES\WindowsFormsApp0\WindowsFormsApp0\bin\Debug\netcoreapp3.1\WindowsFormsApp0.exe
+C:\Users\aleja\OneDrive\Escritorio\PROTOTYPES\WindowsFormsApp0\WindowsFormsApp0\bin\Debug\netcoreapp3.1\WindowsFormsApp0.deps.json
+C:\Users\aleja\OneDrive\Escritorio\PROTOTYPES\WindowsFormsApp0\WindowsFormsApp0\bin\Debug\netcoreapp3.1\WindowsFormsApp0.runtimeconfig.json
+C:\Users\aleja\OneDrive\Escritorio\PROTOTYPES\WindowsFormsApp0\WindowsFormsApp0\bin\Debug\netcoreapp3.1\WindowsFormsApp0.runtimeconfig.dev.json
+C:\Users\aleja\OneDrive\Escritorio\PROTOTYPES\WindowsFormsApp0\WindowsFormsApp0\bin\Debug\netcoreapp3.1\WindowsFormsApp0.dll
+C:\Users\aleja\OneDrive\Escritorio\PROTOTYPES\WindowsFormsApp0\WindowsFormsApp0\bin\Debug\netcoreapp3.1\WindowsFormsApp0.pdb
+C:\Users\aleja\OneDrive\Escritorio\PROTOTYPES\WindowsFormsApp0\WindowsFormsApp0\obj\Debug\netcoreapp3.1\WindowsFormsApp0.csprojAssemblyReference.cache
+C:\Users\aleja\OneDrive\Escritorio\PROTOTYPES\WindowsFormsApp0\WindowsFormsApp0\obj\Debug\netcoreapp3.1\WindowsFormsApp0.Startup.resources
+C:\Users\aleja\OneDrive\Escritorio\PROTOTYPES\WindowsFormsApp0\WindowsFormsApp0\obj\Debug\netcoreapp3.1\WindowsFormsApp0.csproj.GenerateResource.cache
+C:\Users\aleja\OneDrive\Escritorio\PROTOTYPES\WindowsFormsApp0\WindowsFormsApp0\obj\Debug\netcoreapp3.1\WindowsFormsApp0.AssemblyInfoInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\PROTOTYPES\WindowsFormsApp0\WindowsFormsApp0\obj\Debug\netcoreapp3.1\WindowsFormsApp0.AssemblyInfo.cs
+C:\Users\aleja\OneDrive\Escritorio\PROTOTYPES\WindowsFormsApp0\WindowsFormsApp0\obj\Debug\netcoreapp3.1\WindowsFormsApp0.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\PROTOTYPES\WindowsFormsApp0\WindowsFormsApp0\obj\Debug\netcoreapp3.1\WindowsFormsApp0.dll
+C:\Users\aleja\OneDrive\Escritorio\PROTOTYPES\WindowsFormsApp0\WindowsFormsApp0\obj\Debug\netcoreapp3.1\WindowsFormsApp0.pdb
+C:\Users\aleja\OneDrive\Escritorio\PROTOTYPES\WindowsFormsApp0\WindowsFormsApp0\obj\Debug\netcoreapp3.1\WindowsFormsApp0.genruntimeconfig.cache
